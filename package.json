@@ -1,5 +1,5 @@
 {
-  "name": "people-core-solutions-back-end",
+  "name": "my-strapi-app",
   "version": "0.1.0",
   "private": true,
   "description": "A Strapi application",
@@ -38,7 +38,7 @@
     "npm": ">=6.0.0"
   },
   "strapi": {
-    "uuid": "5f72f1b7-52d5-461e-ad8a-1e654a73ed41",
-    "installId": "7d9ffc3b4a772f942d4c0ff440d8ecfdfd2be784fe4d45187ac0f653dcd49b3e"
+    "uuid": "dde4ac06-a2ed-42dd-a074-eb35e16ae14e",
+    "installId": "e2bed8a065d61a32797b5b45a005a12a51bb2a74df303df4582dfac7f7922178"
   }
 }
