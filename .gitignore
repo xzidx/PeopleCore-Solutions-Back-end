@@ -11,4 +11,3 @@
 
 # 4. Allow specific root files (like package.json) so the project can actually run
 !/.gitignore
-!/package.json
